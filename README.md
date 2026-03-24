@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/krish-shah-ab3b93336/">
       <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="krishcshah09@gmail.com">
+    <a href="mailto:krishcshah09@gmail.com">
       <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://instagram.com/krish999777">
@@ -102,11 +102,6 @@
 
   <ul>
     <li><strong>Hackathon Winner</strong> – Secured first place for Blood Link, an emergency blood connectivity solution developed under time pressure with strong execution and teamwork.</li>
-    <li>More certifications and recognitions will be added as I continue learning and progressing.</li>
   </ul>
 
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krish999777&label=Profile%20Views&color=000000&style=for-the-badge" />
 </div>
