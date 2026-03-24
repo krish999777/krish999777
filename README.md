@@ -16,6 +16,12 @@
     <a href="https://www.linkedin.com/in/krish-shah-ab3b93336/">
       <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="krishcshah09@gmail.com">
+      <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/krish999777">
+      <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
   </p>
 
   ---
@@ -37,6 +43,7 @@
     <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </p>
 
   <h4>Backend & Database</h4>
@@ -59,7 +66,7 @@
   <table>
     <tr>
       <td align="left" width="50%">
-        <h4>Productivity App- Goalify</h4>
+        <h4>Productivity App - Goalify</h4>
         <p>
           A React-based app where users organise goals into boards and subjects for structured tracking.
         </p>
@@ -72,7 +79,7 @@
           </a>
         </p>
       </td>
-      <td align="right" width="50%">
+      <td align="left" width="50%">
         <h4>GitHub Profile Analyzer</h4>
         <p>
           A React-based app that fetches and displays GitHub user data, handling async state, errors, and dynamic UI updates.
@@ -91,31 +98,15 @@
 
   ---
 
-   <h2>Achievements & Certifications</h2>
+  <h2>Achievements & Certifications</h2>
 
   <ul>
-    <li><strong>Hackathon Winner</strong> – Secured first place for Blood Link, an emergency blood connectivity solution developed under time pressure with strong execution and teamwork
-    </li>
+    <li><strong>Hackathon Winner</strong> – Secured first place for Blood Link, an emergency blood connectivity solution developed under time pressure with strong execution and teamwork.</li>
     <li>More certifications and recognitions will be added as I continue learning and progressing.</li>
-  </ul
+  </ul>
 
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=krish999777&label=Profile%20Views&color=000000&style=for-the-badge" />
 </div>
-
-<!--
-**krish999777/krish999777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
